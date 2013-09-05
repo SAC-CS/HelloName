@@ -1,3 +1,6 @@
+/* CS 112 - java programming
+   Tuesday 7 p.m.
+   Sae Hun Kim   */
 //Includes HelloW and the bonus
 import java.util.Scanner
 public class HelloName{
