@@ -1,0 +1,11 @@
+//Includes HelloW and the bonus
+import java.util.Scanner
+public class HelloName{
+  public void main (String[] args){
+    Scanner scan = new Scanner(System.in);
+    System.out.println("HelloW);
+    System.out.print ("Enter your name: ");
+    String name = scan.nextLine();
+    System.out.println ("Hello, " + name);
+  }
+}
