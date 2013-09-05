@@ -12,3 +12,4 @@ public class HelloName{
     System.out.println ("Hello, " + name);
   }
 }
+// Nice! DHuynh
